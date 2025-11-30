@@ -40,8 +40,7 @@ Ensure you have Python 3.8 or higher installed. You also need a working webcam.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/swzhangf/Face-Recognition-Attendance-System.git
 ```
 
 ### 2. Install Dependencies
@@ -154,3 +153,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ```
 
 ---
+
